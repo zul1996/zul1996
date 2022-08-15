@@ -1,4 +1,6 @@
+<div align="center">
 ![Cover Image](./assets/programmer.gif)
+</div>
 
 # HELLO. 🐼
 
@@ -15,6 +17,7 @@
 - Flatena ( flat ) 🎮
 - Nine 9️⃣
 - zoel 🐼
+
 looks cool right u can call me whatever u want 🥰
 
 ## Let me introduce my self
