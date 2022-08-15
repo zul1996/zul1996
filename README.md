@@ -11,18 +11,16 @@
 <a href="mailto:mzulnewbie@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
 ## I am **Muhammad <span style="color:#F3BA2F">**Zul**</span>karnaen Indranto**, I have several nicknames some friend call me with :
----
+
 - Flatena ( flat ) 🎮
 - Nine 9️⃣
 - zoel 🐼
 looks cool right u can call me whatever u want 🥰
-<br>
+
 ## Let me introduce my self
----
 ### I'am Designer & Web Developer from Indonesia 🇮🇩🇮,Country with a lot of island and Culture. if u dont know where it is, Maybe when i call BALI.. everyone on the world know. So Bali is part of Indonesia 🇮🇩
 
 ## Tecnologies and tools :
----
 <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /> &nbsp;
 <img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />&nbsp;
@@ -33,7 +31,6 @@ looks cool right u can call me whatever u want 🥰
 <img src="https://img.shields.io/badge/figma-282C34?logo=figma&logoColor=Fff" alt="figma logo" title="figma" height="25" />&nbsp;
 
 ## Fun Fact :
----
 - 🐱 Absolutly i'am 👨 man and ♉ Taurus
 - 📧 Reach me on Social Media feel free to say Hello
 - 💓 Love Change ☕ Coffe into a Code  💻
