@@ -1,4 +1,8 @@
+<div align="center">
+
 ![Cover Image](./assets/programmer.gif)
+
+</div>
 
 
 # HELLO. 🐼
