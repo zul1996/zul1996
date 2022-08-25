@@ -1,13 +1,13 @@
 <div align="center">
 
-![Cover Image](./assets/programmer.gif)
+![Cover Image](./assets/banner-github.jpg)
 
 </div>
 
 
 # HELLO. 🐼
 
-<a href="https://github.com/zul1996/CoverView"><img src="https://img.shields.io/github/stars/zul1996/CoverView.svg?style=social&label=Star"></a>
+
 <a href="https://twitter.com/Flaatena_"><img alt="twitter follow" src="https://img.shields.io/twitter/follow/zoel?color=00acee&label=Zul%20on%20Twitter&logo=Twitter&logoColor=ffffff&style=flat-square="></a>
 <a href="https://www.youtube.com/channel/UCwLr4n2CPBi-oJsy9Gnv05w"><img alt="Youtube Follow" src="https://img.shields.io/youtube/channel/subscribers/UCrd66qTdY9VCKHxufocLh2w?style=flat-square&color=ff0000&label=Zoel%20on%20YouTube&logo=YouTube"></a>
 <a href="https://www.instagram.com/flaatena_/">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
